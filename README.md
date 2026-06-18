@@ -16,7 +16,7 @@ projeto pessoal de um thinkpad T430
 
 ### Hardware
 
-• processador I7 3632QM
+• processador I7-3632QM
 • memória ram 16gb ddr3l
 • memória ssd 1-2tb
 • bateria nova
