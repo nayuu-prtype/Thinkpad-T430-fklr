@@ -32,4 +32,4 @@ projeto pessoal de um thinkpad T430
 • 1vyrain (por um tempo)
 • coreboot (via exploit)
 
-• skulls 
+• skulls (automação de software para instalação de coreboot)
