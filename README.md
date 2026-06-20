@@ -29,7 +29,5 @@ projeto pessoal de um thinkpad T430
 
 ### Software 
 
-- [ ] 1vyrain (por um tempo)  
-- coreboot (via exploit)  
-
-- [ ] skulls (automação de software para instalação de coreboot)  
+- [ ] 1vyrain (por um tempo)
+- [ ] futuramente utilizar uma gravadora CH342A para gravar na bios o coreboot e neutralizar o Intel ME (skulls)
