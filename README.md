@@ -24,9 +24,6 @@ projeto pessoal de um thinkpad T430
 - [ ] mod teclado 7 fileiras (T420)  
 - [ ] mod entrada usb-c  
 
-- [ ] futuramente utilizar uma gravadora CH342A para gravar na bios o coreboot e neutralizar o Intel ME (o t430 em específico possui dois chips bios)  
-
-
 ### Software 
 
 - [ ] 1vyrain (por um tempo)
